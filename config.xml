@@ -6,16 +6,15 @@
         id        = "com.phonegap.callMyCab"
         version   = "1.0.0">
 
-    <name>CallMyCab</name>
+    <name>AgroRunnerDriver</name>
 
     <description>
-        Call My Cab mobile application for taxi cab booking system.
+        AgroRunner Driver application .
     </description>
 
-    <author href="http://techware.co.in/" email="info@techware.co.in">
-        Techware Solution
+    <author href="http://digitalwebglobal.com/" email="info@digitalwebglobal.com">
+        Digital Web
     </author>
-		
 		
     <!--
         If you do not want any permissions to be added to your app, add the
